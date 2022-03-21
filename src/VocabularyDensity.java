@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------
-// VocabularyDensity.java       by Dale/Joyce/Weems                 Chapter 5
+// VocabularyDensity.java
 //
 // Displays the number of total words, unique words in the input text file,
 // and the resulting vocabulary density.
