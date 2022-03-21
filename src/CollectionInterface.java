@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------------
-// CollectionInterface.java        by Dale/Joyce/Weems               Chapter 5
+// CollectionInterface.java
 //
 // Interface for a class that implements a collection of T.
 // A collection allows addition, removal, and access of elements.
